@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Bite me. Bite me icecream, I mean!
+=======
+This is just an experiment with Git and Github. I'm practicing ways to chip off the number of commits. 
+Creating and tweaking readme files directly on Github is a great way to do that. Bye.
+>>>>>>> 728c8aacdaa9978cdafaa2a5ec6afdb3af675e74
